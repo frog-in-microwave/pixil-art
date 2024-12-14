@@ -1,0 +1,27 @@
+
+.pixel {
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    display: table-cell;
+  }
+
+.row {
+    display: table-row;
+}
+
+
+
+.art {
+    display: table;
+}
+
+
+.pen {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+  }
